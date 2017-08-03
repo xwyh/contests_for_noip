@@ -35,8 +35,8 @@
 |contest12|Y|Y|A|Y|X|X|
 |contest13|Y|Y|A|X|X|X|
 |contest14|A|Y|A|X|X|X|
-|contest15|W|W|W|W|W|W|
-|contest16|W|W|W|W|W|W|
+|contest15|A|A|W|X|X|x|
+|contest16|Y|A|A|W|W|W|
 |contest17|W|W|W|W|W|W|
 |contest18|W|W|W|W|W|W|
 |contest19|A|W|W|W|W|W|
